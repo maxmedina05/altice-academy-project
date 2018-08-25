@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="40dp"
+    tools:context="com.example.medma.myapplication.MainActivity">
+
+    <Button
+        android:id="@+id/btn_linear_layout_vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_linear_layout_vertical"/>
+
+    <Button
+        android:id="@+id/btn_linear_layout_horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_linear_layout_horizontal"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_relative_layout"
+        android:text="@string/btn_relative_layout"/>
+
+    <Button
+        android:id="@+id/btn_table_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_table_layout"/>
+
+    <Button
+        android:id="@+id/btn_frame_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_frame_layout"/>
+    <Button
+        android:id="@+id/btn_list_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_list_layout"/>
+
+    <Button
+        android:id="@+id/btn_grid_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_grid_layout"/>
+
+    <Button
+        android:id="@+id/btn_constrain_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_constrain_layout"/>
+
+    <Button
+        android:id="@+id/btn_user_adapter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_user_adapter"/>
+</LinearLayout>

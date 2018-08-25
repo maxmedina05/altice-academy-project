@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SamplesD3</string>
+    <string name="btn_linear_layout_vertical">Linear Layout Vertical</string>
+    <string name="btn_linear_layout_horizontal">Linear Layout Horizontal</string>
+    <string name="btn_relative_layout">Relative Layout</string>
+    <string name="btn_table_layout">Table Layout</string>
+    <string name="btn_frame_layout">Frame Layout</string>
+    <string name="btn_list_layout">List Layout</string>
+    <string name="btn_grid_layout">Grid Layout</string>
+    <string name="btn_constrain_layout">Constrain Layout</string>
+    <string name="btn_user_adapter">User Adapter</string>
+</resources>
